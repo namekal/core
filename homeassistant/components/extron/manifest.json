@@ -1,0 +1,7 @@
+{
+  "domain": "extron",
+  "name": "Extron Matrix Switch",
+  "documentation": "https://www.home-assistant.io/integrations/extron",
+  "requirements": [],
+  "codeowners": []
+}
