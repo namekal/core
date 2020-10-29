@@ -1,0 +1,9 @@
+set_all_zones:
+  description: Set all Extron zones to a single source.
+  fields:
+    entity_id:
+      description: Name of any extron zone.
+      example: "media_player.zone_1"
+    source:
+      description: Name of source to switch to.
+      example: "Source 1"
